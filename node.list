@@ -1,5 +1,6 @@
-http=a1.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=true, udp-relay=false, tag=moon1
+http=a1.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon1
 http=a2.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon2
 http=a3.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon3
 http=a4.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon4
+trojan=aga.nayun.xyz:24571, password=d78e9006-e6bb-4248-bc49-1c69037482a1, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon5[trojan]
 vmess=207.46.154.119:8083, method=aes-128-gcm, password=5cf335d9-f783-4d95-89b2-898fec4b19f3, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, tag=香港 微软云
