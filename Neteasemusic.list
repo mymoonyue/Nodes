@@ -1,0 +1,6 @@
+shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐1
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐2
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐3
+http=blockmusic2.poetyin.me:19951, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐4
+http=3music.poetyin.me:100, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐5
+http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=🎧 解锁网易云音乐6
