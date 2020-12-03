@@ -2,4 +2,3 @@ http=a1.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b3
 http=a2.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon2
 http=a3.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon3
 http=a4.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon4
-vmess=13.248.130.129:80, method=aes-128-gcm, password=fba1d496-acd4-3a4a-9093-f9ed387b1e5c, obfs=ws, obfs-host=v1-aws-hk-02.tudog.me, obfs-uri=/tudog, fast-open=false, udp-relay=false, tag=香港-AGA
