@@ -1,0 +1,9 @@
+shadowsocks = 212.102.42.194:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 1
+shadowsocks = 84.17.57.71:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 2
+shadowsocks = 84.17.57.66:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 3
+shadowsocks = 84.17.37.158:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 4
+shadowsocks = 84.17.37.160:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 5
+shadowsocks = 212.102.42.209:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 6
+shadowsocks = 84.17.57.148:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 7
+shadowsocks = 84.17.57.73:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 8
+shadowsocks = 212.102.42.204:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, udp-relay=false, tag=🇭🇰 HK 9
