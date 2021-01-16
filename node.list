@@ -1,4 +1,0 @@
-http=a1.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon1
-http=a2.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon2
-http=a3.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon3
-http=a4.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=moon4
