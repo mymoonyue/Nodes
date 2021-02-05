@@ -1,0 +1,3 @@
+proxies:
+  - {name: 🇨🇳 CN_501 |17.74Mb, server: cn-shct01.ajst8hkxbhw75fg5.route.node.surf, port: 3112, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_502 | 2.32Mb, server: cn-shct01.ajst8hkxbhw75fg5.route.node.surf, port: 3163, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
