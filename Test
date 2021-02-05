@@ -1,0 +1,54 @@
+proxies:
+  - {name: 🇨🇳 CN_501 |17.74Mb, server: cn-shct01.ajst8hkxbhw75fg5.route.node.surf, port: 3112, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_502 | 2.32Mb, server: cn-shct01.ajst8hkxbhw75fg5.route.node.surf, port: 3163, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_503 | 8.10Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3092, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_504 | 2.00Mb, server: aix.iplc05.node.cyou, port: 3160, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_505 | 8.23Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3097, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_506 |23.75Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3161, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_507 | 5.26Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3091, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_508 | 6.78Mb, server: aix.iplc04.node.cyou, port: 3160, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_509 | 9.69Mb, server: aix.iplc03.node.cyou, port: 3160, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_510 | 2.75Mb, server: cn-shcu03.mxelkxw7ri2xpr67.route.node.surf, port: 3162, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_511 | 6.77Mb, server: aix.iplc04.node.cyou, port: 3130, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_512 | 7.35Mb, server: aix.iplc03.node.cyou, port: 3130, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_513 |18.68Mb, server: cn-shct02.zbnbb3k4hethmid6.route.node.surf, port: 3162, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_514 | 9.87Mb, server: cn-shcu02.xmy2g2cccfrpbmns.route.node.surf, port: 3161, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_515 | 8.14Mb, server: cn-gd01.t2ra3nbdw6ybskyy.route.node.surf, port: 3163, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_516 |12.88Mb, server: 116.63.62.140, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_517 | 7.70Mb, server: cn-shct02.zbnbb3k4hethmid6.route.node.surf, port: 3141, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_518 | 5.00Mb, server: 122.9.61.47, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_519 | 3.31Mb, server: cn-gd04.psbjcfwkbyktk88d.route.node.surf, port: 3141, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_520 | 8.54Mb, server: cn-gd02.snwwwj4pzsadpjy4.route.node.surf, port: 3161, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_521 | 9.70Mb, server: cn-js01.zkmxatkynymnhhy6.route.node.surf, port: 3151, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_522, server: aix.iplc02.node.cyou, port: 3131, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_523 |23.69Mb, server: cn-shcu02.xmy2g2cccfrpbmns.route.node.surf, port: 3121, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_524 |11.51Mb, server: cn-gd04.psbjcfwkbyktk88d.route.node.surf, port: 3163, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_525 |11.98Mb, server: cn-shcu03.mxelkxw7ri2xpr67.route.node.surf, port: 3122, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_526 | 6.77Mb, server: cn-shct01.ajst8hkxbhw75fg5.route.node.surf, port: 3124, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_527 |11.07Mb, server: cn-shcu03.mxelkxw7ri2xpr67.route.node.surf, port: 3151, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_528, server: aix.iplc01.node.cyou, port: 3131, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_529 |19.63Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3123, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_530 |10.97Mb, server: 122.9.61.50, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_531, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+  - {name: 🇨🇳 CN_532 |22.02Mb, server: cn-shcu02.xmy2g2cccfrpbmns.route.node.surf, port: 3151, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_533 |20.31Mb, server: cn-shct01.ajst8hkxbhw75fg5.route.node.surf, port: 3121, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_534 | 8.33Mb, server: 183.60.41.79, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_535 |20.03Mb, server: cn-shct02.zbnbb3k4hethmid6.route.node.surf, port: 3122, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_536 | 3.71Mb, server: cn-gd01.t2ra3nbdw6ybskyy.route.node.surf, port: 3124, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_537, server: aix.iplc02.node.cyou, port: 3111, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_538 |24.25Mb, server: 183.60.41.76, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_539 |19.05Mb, server: cn-js02.zephal3yelemkhzr.route.node.surf, port: 3123, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_540 |15.80Mb, server: cn-gd01.t2ra3nbdw6ybskyy.route.node.surf, port: 3121, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_541 |11.72Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3132, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_542 |11.43Mb, server: cn-gd04.psbjcfwkbyktk88d.route.node.surf, port: 3123, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_543 |21.21Mb, server: tocn-sh01.brh8mzi6wscay8xd.route.node.surf, port: 544, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_544 |28.53Mb, server: cn-shcu02.xmy2g2cccfrpbmns.route.node.surf, port: 3111, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_545 |13.45Mb, server: cn-shcu02.xmy2g2cccfrpbmns.route.node.surf, port: 3132, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_546 |11.25Mb, server: 122.9.61.49, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_547 |12.12Mb, server: cn-shcu03.mxelkxw7ri2xpr67.route.node.surf, port: 3111, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_548 |23.62Mb, server: cn-shcu04.kjtxex3npfaywftw.route.node.surf, port: 3111, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_549 | 8.36Mb, server: 183.60.41.77, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
+  - {name: 🇨🇳 CN_550 |11.04Mb, server: cn-shcu03.mxelkxw7ri2xpr67.route.node.surf, port: 3131, type: ss, cipher: aes-256-ctr, password: 9CU44I, plugin: obfs, plugin-opts: {mode: http, host: 5e24393508.microsoft.com}}
+  - {name: 🇨🇳 CN_551 | 6.06Mb, server: 123.57.191.190, port: 25576, type: ss, cipher: rc4-md5, password: G9r83c}
+  - {name: 🇨🇳 CN_552 | 6.28Mb, server: 47.100.51.35, port: 25576, type: ss, cipher: rc4-md5, password: G9r83c}
+  - {name: 🇨🇳 CN_553 | 2.19Mb, server: 183.60.44.143, port: 24167, type: ss, cipher: xchacha20-ietf-poly1305, password: AfrOoi}
