@@ -1,0 +1,14 @@
+proxies:
+  - {name: 🇸🇬 新加坡A1, server: a1.er3.xyz, port: 29980, type: vmess, uuid: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, alterId: 0, cipher: chacha20-poly1305, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: node.er3.xyz}}
+  - {name: 🇭🇰 香港A1, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇭🇰 香港A5, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇭🇰 香港A2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇭🇰 香港A3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇭🇰 香港A4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇦🇺 澳大利亚, server: global.ap.fastqvpn.com, port: 29982, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇸🇬 新加坡, server: global.ap.fastqvpn.com, port: 29986, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇨🇦 加拿大, server: global.ap.fastqvpn.com, port: 29983, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}  
+  - {name: 🇩🇪 德国, server: global.ap.fastqvpn.com, port: 29984, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇯🇵 日本, server: global.ap.fastqvpn.com, port: 29985, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇬🇧 英国, server: global.ap.fastqvpn.com, port: 29987, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
+  - {name: 🇺🇸 美国, server: global.ap.fastqvpn.com, port: 29988, type: http, username: "410242540751552512", password: 8cdcbda5-bce2-4454-a5e8-4cafe4a8b511, tls: true}
